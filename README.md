@@ -45,7 +45,8 @@ The Recipe Finder App relies on the following libraries and tools:
 
 ## App Demo
 
-![app]()
+https://github.com/Niravgajera1/Recipe-Finder-App/assets/139257507/cac1a5f5-fcdf-4772-bda9-a5237bd4b67f
+
 
 ## How to Use
 
